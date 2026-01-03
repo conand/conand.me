@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Andrea Continella</title>
+    <link>https://conand.me/publication/</link>
+    <description>Recent content in Publications on Andrea Continella</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Andrea Continella</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://conand.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R&#43;R: IoT Device Identification Under Realistic Conditions</title>
+      <link>https://conand.me/publication/gupta-evaliot-25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/gupta-evaliot-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhisperTest: A Voice-Control-based Library for iOS UI Automation</title>
+      <link>https://conand.me/publication/moti-whispertest-25/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/moti-whispertest-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConLock: Reducing Runtime Attack Surface in Containerized Microservices</title>
+      <link>https://conand.me/publication/elkhairi-conlock-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/elkhairi-conlock-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LibAFLstar: Fast and State-Aware Protocol Fuzzing</title>
+      <link>https://conand.me/publication/daniele-libaflstar-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/daniele-libaflstar-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProCatch: Detecting Execution-based Anomalies in Single-Instance Microservices</title>
+      <link>https://conand.me/publication/elkhairi-procatch-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/elkhairi-procatch-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: Automated TTP Extraction from CTI Reports – Are We There Yet?</title>
+      <link>https://conand.me/publication/buchel-cti-so-k-25/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/buchel-cti-so-k-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: Hardening Techniques in the Mobile Ecosystem – Are We There Yet?</title>
+      <link>https://conand.me/publication/steinbock-haly-25/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/steinbock-haly-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Automatically Generating User-specific Recovery Procedures after Windows Malware Infections</title>
+      <link>https://conand.me/publication/starink-malwareremediation-25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/starink-malwareremediation-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Nets: Context-Aware Behavior Modeling for Code Injection-Based Windows Malware</title>
+      <link>https://conand.me/publication/starink-behaviornets-25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/starink-behaviornets-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Security Analysis of Real-World Backend Deployments Speaking IoT-Focused Protocols</title>
+      <link>https://conand.me/publication/tagliaro-iotbackends-24/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/tagliaro-iotbackends-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FrameD: Toward Automated Identication of Embedded Frameworks in Firmware Images</title>
+      <link>https://conand.me/publication/vannielen-framed-24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vannielen-framed-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Recovery Steps from Cyber Threat Intelligence Reports</title>
+      <link>https://conand.me/publication/kucsvan-recovery-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/kucsvan-recovery-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERAFL: Efficient Resource Allocation for Federated Learning Training in Smart Homes</title>
+      <link>https://conand.me/publication/rezaei-erafl-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/rezaei-erafl-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReplicaWatcher: Training-less Anomaly Detection in Containerized Microservices</title>
+      <link>https://conand.me/publication/elkhairi-replicawatcher-24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/elkhairi-replicawatcher-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shimware: Toward Practical Security Retrofitting for Monolithic Firmware Images</title>
+      <link>https://conand.me/publication/gustafson-shimware-23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/gustafson-shimware-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Measuring Inter-Process Code Injection in Windows Malware</title>
+      <link>https://conand.me/publication/starink-codeinjection-23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/starink-codeinjection-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile apps and children&#39;s privacy: a traffic analysis of data sharing practices among children&#39;s mobile iOS apps</title>
+      <link>https://conand.me/publication/pimienta-adc-23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/pimienta-adc-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AoT - Attack on Things: A security analysis of IoT firmware updates</title>
+      <link>https://conand.me/publication/ibrahim-aot-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/ibrahim-aot-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divak: Non-invasive Characterization of Out-Of-Bounds Write Vulnerabilities</title>
+      <link>https://conand.me/publication/hafkemeyer-divak-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/hafkemeyer-divak-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLUMBUS: Android App Testing Through Systematic Callback Exploration</title>
+      <link>https://conand.me/publication/bose-columbus-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/bose-columbus-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoneyKube: Designing and Deploying a Microservices-based Web Honeypot</title>
+      <link>https://conand.me/publication/gupta-honeykube-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/gupta-honeykube-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operationalizing Cybersecurity Research Ethics Review: From Principles and Guidelines to Practice</title>
+      <link>https://conand.me/publication/reidsma-ethics-23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/reidsma-ethics-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stepping out of the MUD: Contextual threat information for IoT devices with manufacturer-provided behaviour profiles</title>
+      <link>https://conand.me/publication/morgese-mudscope-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/morgese-mudscope-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualizing System Calls in Containers for Anomaly-Based Intrusion Detection</title>
+      <link>https://conand.me/publication/elkhairi-ccsw-22/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/elkhairi-ccsw-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Anomalous Misconfigurations in AWS Identity and Access Management Policies</title>
+      <link>https://conand.me/publication/vanede-misdet-22/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vanede-misdet-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Lab (FedLab): An Open-source Distributed Platform for Internet of Things (IoT) Research and Experimentation</title>
+      <link>https://conand.me/publication/meijer-fedlab-22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/meijer-fedlab-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepCASE: Semi-Supervised Contextual Analysis of Security Events</title>
+      <link>https://conand.me/publication/vanede-2022-deepcase/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vanede-2022-deepcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematical and Longitudinal Study of Evasive Behaviors in Windows Malware</title>
+      <link>https://conand.me/publication/galloro-brioscia-21/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/galloro-brioscia-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversing and Fuzzing the Google Titan M Chip</title>
+      <link>https://conand.me/publication/melotti-titanm-21/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/melotti-titanm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning</title>
+      <link>https://conand.me/publication/ruaro-syml-21/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/ruaro-syml-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Secure Crowdsourced Location Tracking System</title>
+      <link>https://conand.me/publication/garg-secrow-21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/garg-secrow-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bran: Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms</title>
+      <link>https://conand.me/publication/meng-bran-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/meng-bran-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices</title>
+      <link>https://conand.me/publication/redini-diane-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/redini-diane-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Retrospective Analysis of User Exposure to (Illicit) Cryptocurrency Mining on the Web</title>
+      <link>https://conand.me/publication/holz-mining-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/holz-mining-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYMBION: Interleaving Symbolic with Concrete Execution</title>
+      <link>https://conand.me/publication/gritti-symbion-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/gritti-symbion-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware</title>
+      <link>https://conand.me/publication/redini-karonte-20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/redini-karonte-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Multi-Binary Vulnerabilities in Embedded Firmware at Scale</title>
+      <link>https://conand.me/publication/redini-bhasia-20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/redini-bhasia-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HeadPrint: Detecting Anomalous Communications through Header-based Application Fingerprinting</title>
+      <link>https://conand.me/publication/bortolameotti-headprint-20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/bortolameotti-headprint-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic</title>
+      <link>https://conand.me/publication/vanede-flowprint-20/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vanede-flowprint-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victim-Aware Adaptive Covert Channels</title>
+      <link>https://conand.me/publication/bortolameotti-chameleon-19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/bortolameotti-chameleon-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data sharing practices of medicines related apps and the mobile ecosystem: traffic, content, and network analysis</title>
+      <link>https://conand.me/publication/grundyl-920/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/grundyl-920/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LeakDoctor: Toward Automatically Diagnosing Privacy Leaks in Mobile Applications</title>
+      <link>https://conand.me/publication/wang-2019-leakdoctor/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/wang-2019-leakdoctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>There&#39;s a Hole in that Bucket! A Large-scale Analysis of Misconfigured S3 Buckets</title>
+      <link>https://conand.me/publication/continella-18-bucketsec/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-18-bucketsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysTaint: Assisting Reversing of Malicious Network Communications</title>
+      <link>https://conand.me/publication/viglianisi-18-systaint/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/viglianisi-18-systaint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Systematically Exploring Antivirus Engines (short paper)</title>
+      <link>https://conand.me/publication/quarta-2018-crave/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/quarta-2018-crave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection system and method for protecting a computer system against ransomware attacks</title>
+      <link>https://conand.me/publication/continella-2018-protection/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-2018-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Evaluation of a Banking Fraud Analysis System</title>
+      <link>https://conand.me/publication/carminati-2018-security/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/carminati-2018-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defending from financially-motivated software abuses</title>
+      <link>https://conand.me/publication/continella-2018-defending/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-2018-defending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GroupDroid: Automatically Grouping Mobile Malware by Extracting Code Similarities</title>
+      <link>https://conand.me/publication/marastoni-groupdroid-2017/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/marastoni-groupdroid-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiding Pin&#39;s Artifacts to Defeat Evasive Malware</title>
+      <link>https://conand.me/publication/polino-17-bheu/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/polino-17-bheu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShieldFS: The Last Word In Ransomware Resilient Filesystems</title>
+      <link>https://conand.me/publication/continella-17-shieldfsbhusa/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-17-shieldfsbhusa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Defeating Anti-Instrumentation-Equipped Malware</title>
+      <link>https://conand.me/publication/polino-arancino-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/polino-arancino-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Detecting webinjects through live memory inspection</title>
+      <link>https://conand.me/publication/nicola-2017-poster/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/nicola-2017-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis</title>
+      <link>https://conand.me/publication/continella-17-agrigento/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-17-agrigento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prometheus: Analyzing WebInject-based information stealers</title>
+      <link>https://conand.me/publication/continellaprometheus/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continellaprometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShieldFS: A Self-healing, Ransomware-aware Filesystem</title>
+      <link>https://conand.me/publication/continella-shieldfs-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/continella-shieldfs-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GASOLINE: a Cytoscape app for multiple local alignment of PPI networks</title>
+      <link>https://conand.me/publication/micale-2014-gasoline/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/micale-2014-gasoline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
