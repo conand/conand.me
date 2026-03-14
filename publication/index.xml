@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Andrea Continella</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://conand.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RASH: Resource Allocation for Smart Homes Considering Privacy Sensitivity of IoT Applications</title>
+      <link>https://conand.me/publication/rezaei-rash-26/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/rezaei-rash-26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R&#43;R: IoT Device Identification Under Realistic Conditions</title>
