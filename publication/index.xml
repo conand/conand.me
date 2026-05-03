@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Andrea Continella</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://conand.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hestia: Automated Application Code Identification in RTOS Firmware</title>
+      <link>https://conand.me/publication/brinza-hestia-26/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/brinza-hestia-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT</title>
+      <link>https://conand.me/publication/rezaei-lliot-26/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/rezaei-lliot-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImmuCheck: Selective Immutability for Container Escape Detection in Containerized Microservices</title>
+      <link>https://conand.me/publication/elkhairi-immucheck-26/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/elkhairi-immucheck-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques</title>
+      <link>https://conand.me/publication/vannielen-persistence-26/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vannielen-persistence-26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RASH: Resource Allocation for Smart Homes Considering Privacy Sensitivity of IoT Applications</title>
