@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Andrea Continella</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://conand.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SteamFuzz: Boosting Firmware Fuzzing via Automatic Message Window Inference</title>
+      <link>https://conand.me/publication/vannielen-steamfuzz-26/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://conand.me/publication/vannielen-steamfuzz-26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hestia: Automated Application Code Identification in RTOS Firmware</title>
